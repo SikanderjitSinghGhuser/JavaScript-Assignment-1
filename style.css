@@ -1,0 +1,30 @@
+#main {
+    width: 70%;
+    background-color: #F5F5F5;
+    margin: 0 auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+section {
+    width: 65%;
+    background-color: #C0C0C0;
+    border: 2px solid black;
+    margin: 20px auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+
+a {
+    text-decoration: none;
+    border: 1px solid grey;
+    color: black;
+    /* margin-top: 97px; */
+    background: #efefef;
+    border-radius: 3px;
+}
+
+.reset {
+    margin-top: 7px;
+}
